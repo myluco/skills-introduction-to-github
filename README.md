@@ -8,11 +8,11 @@
   | |_| |
    \\___/
   /| |\\
- /_| |_\\
+ /_| |_|\\
     / \
    /   \\
   /_/\\_\\
 
-# 🎉 Congratulations myluco! 🎉
+# 🎉 Congratulations! 🎉
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
